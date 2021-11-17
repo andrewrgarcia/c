@@ -18,5 +18,7 @@ deployment:
 `./args [first_word] [second_word] [. . .] [infinite-1_word]`
 
 #### argsfunc.c
+A c example which shows how to make a function call inside another function, convert char to int, 
+make a conditional statements AND use args input.
 deployment (try):
 `./argsfunc 00uu12012f+ 10 16`
