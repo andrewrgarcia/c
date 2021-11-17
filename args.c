@@ -14,7 +14,6 @@ int main( int argc, char *argv[] )  {
 
    printf("\nprinting only the first and last written inputs here:");
    printf("\nyou wrote \"%s\" first",argv[1]);
-   // printf("You wrote %s\n after first",argv[1]);
    printf("\nyou wrote \"%s\" last",argv[argc-1]);
    printf("\n");
 
