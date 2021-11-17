@@ -1,6 +1,6 @@
-#include <stdio.h>
+/*credit: https://www.cprogramming.com/tutorial/c-tutorial.html */
 
-/*source: https://www.cprogramming.com/tutorial/c-tutorial.html */
+#include <stdio.h>
 
 int main()
 {
