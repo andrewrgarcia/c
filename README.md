@@ -6,6 +6,7 @@
 #### How to compile and run: 
 compiling:
 `gcc [program_name].c –o [executable_name]`
+
 deployment:
 `./[executable_name]`
 
